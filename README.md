@@ -28,6 +28,10 @@ Projetar e implementar uma solução de infraestrutura em nuvem (AWS) que utiliz
 <td align="center"><a href="https://github.com/39Paty"><img style="border-radius: 50%;" src="https://github.com/39Paty.png" width="100px;" alt="Patrícia Amorim
 "/><br /><sub><b>Patrícia Amorim</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/JulioCBandeira"><img style="border-radius: 50%;" src="https://github.com/JulioCBandeira.png" width="100px;" alt="Julio Bandeira"/><br /><sub><b>Julio Bandeira</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/.png" width="100px;" alt="Daniele Contreira"/><br /><sub><b>Daniele Contreira</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/.png" width="100px;" alt="Hallyson Aquino"/><br /><sub><b>Hallyson Aquino</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/.png" width="100px;" alt="Leonardo Maximo"/><br /><sub><b>Leonardo Maximo</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://github.com/.png" width="100px;" alt="Anderson Felipe"/><br /><sub><b>Anderson Felipe</b></sub></a><br/></td>
 </table>
 
 ### **📊 Processo documentado, fórmulas, resultados e conclusões**
